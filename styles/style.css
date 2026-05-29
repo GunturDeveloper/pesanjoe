@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "San";
+    src: url("./fonts/SFNSDisplay-Regular.otf") format("opentype");
+}
+
+body {
+    font-family: "San", sans-serif;
+}
